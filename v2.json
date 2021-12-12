@@ -1,0 +1,14 @@
+{
+    "files": [
+        "./shared.js",
+        "./shared.css",
+        "./variationB/variation.css",
+        "./variationB/variation.js"
+
+    ],
+    "urls": [
+        "https://www.purition.co.uk/shop/wholefood-plant-nutrition/",
+        "https://www.purition.co.uk/shop/nutrition-meal-replacement-shakes/"
+    ],
+    "inject": ""
+}

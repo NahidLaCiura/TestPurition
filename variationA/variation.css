@@ -1,0 +1,21 @@
+.product-item-container {
+    margin-bottom: 8px;
+}
+
+.active {
+    margin-bottom: 0;
+}
+
+.active .panel {
+    margin-bottom: 8px;
+}
+
+.arrow-container {
+    background-color: #981863;
+    margin-right: 10px;
+    border-radius: 8px;
+}
+
+.active .arrow-container span {
+    transform: rotate(90deg);
+}

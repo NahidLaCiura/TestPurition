@@ -1,0 +1,8 @@
+.panel {
+    display: block;
+}
+
+.product-item-container {
+    justify-content: center;
+    cursor: unset;
+}
